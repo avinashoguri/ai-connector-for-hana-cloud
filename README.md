@@ -17,9 +17,10 @@ Avinash Oguri
 
 ## Demo
 
-<video src="demo-ai-connector-for-hana-cloud.mp4" controls width="700">
-   Your browser does not support the video tag.
-</video>
+<p>
+<img src="demo-ai-connector-for-hana-cloud-GIF.gif" alt="Demo GIF" width="700" />
+</p>
+
 
 ## Prerequisites
 
