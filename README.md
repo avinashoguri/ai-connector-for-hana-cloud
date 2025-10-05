@@ -15,6 +15,12 @@ Avinash Oguri
 - 📝 Comprehensive logging
 - 🔌 Easy database connection management using environment variables
 
+## Demo
+
+<video src="demo-ai-connector-for-hana-cloud.mp4" controls width="700">
+   Your browser does not support the video tag.
+</video>
+
 ## Prerequisites
 
 - Python 3.7 or higher
